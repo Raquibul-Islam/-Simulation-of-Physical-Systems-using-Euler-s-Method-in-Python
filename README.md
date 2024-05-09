@@ -1,1 +1,1 @@
-# -Simulation-of-Physical-Systems-using-Euler-s-Method-in-Python
+Simulation of Partical Motion (Fluid Dynamics) using Euler's Method in Python
